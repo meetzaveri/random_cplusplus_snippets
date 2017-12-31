@@ -15,7 +15,5 @@ int main()
     int y = 6; 
  
     cout << add(5, 5) << endl;
-
- 	cout << "heloo";
   return 0;
 }
